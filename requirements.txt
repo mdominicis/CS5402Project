@@ -6,3 +6,4 @@ kagglehub
 torch
 transformers
 nbstripout
+huggingface_hub[hf_xet]
