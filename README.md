@@ -1,7 +1,9 @@
 # CS5402Project
 Pink Pony Club's Data Mining Project
 
-To create a virtual environment
+To run:
+
+```git clone https://github.com/mdominicis/CS5402Project.git```
 
 ```python3 -m venv --system-site-packages .venv```
 
